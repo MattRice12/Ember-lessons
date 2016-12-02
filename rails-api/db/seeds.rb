@@ -10,6 +10,6 @@ Monster.create!(name: "Sparkachu", level: 3)
 
 Monster.create!(name: "Charember", level: 29)
 
-Monster.create!(name: "Rhouk", level: 5)
+Monster.create!(name: "Rhouk", level: 5, active: true)
 
-Monster.create!(name: "Poddle", level: 9)
+Monster.create!(name: "Poddle", level: 9, active: true)
